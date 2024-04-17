@@ -1,0 +1,19 @@
+
+¹
+java:S1319¥"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(îµÛ³şÿÿÿÿ8ÌöÌäî1J$359eef09-fe82-4462-bbae-46c1263ced93
+¹
+java:S1319©"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ûà§êÿÿÿÿÿ8ÛöÌäî1J$8174da3a-2876-472d-9dea-6faee901afeb
+´
+java:S1319­"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ûš–8ëöÌäî1J$32f5cca1-54fb-439f-bfc9-dbd78f1728c5
+³
+java:S1319±"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(öï£W8ëöÌäî1J$7d9209fb-25cb-47aa-bb6a-cd2d2637b50d
+y
+java:S1854%"6Remove this useless assignment to local variable "c6".(Ÿœ§…8˜÷Ìäî1J$2359fefc-9241-4c5c-8d45-97b498395211
+j
+java:S1481%"'Remove this unused "c6" local variable.(Ÿœ§…8¨÷Ìäî1J$745acc7b-9a88-4f09-9ace-4c43d876383b
+~	java:S125a"<This block of commented-out lines of code should be removed.(íÀÜ8Á÷Ìäî1J$bb96ff1a-7749-4718-87aa-5f6091bd0fbe
+„
+java:S1128"<Remove this unused import 'javax.lang.model.type.ArrayType'.(£¾Øğùÿÿÿÿ8Å÷Ìäî1J$15e69003-2807-4952-9882-7ddf97519474
+|
+java:S1128
+"4Remove this unused import 'java.security.PublicKey'.(ºâú½üÿÿÿÿ8Å÷Ìäî1J$0e3f32c0-b3fd-44ae-b88d-bba00824c970
