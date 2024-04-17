@@ -16,7 +16,7 @@ import java.util.EnumMap;
  * - 데이터 전담 클래스를 만들어서 기초 데이터 생성 작업
  */
 
-// 화를 내지 말아라 형아야
+
 public class CafeManagementArrayList {
     public static void main(String[] args) {
         // ArrayList 형태로 된 데이터베이스 객체 생성
@@ -95,9 +95,10 @@ public class CafeManagementArrayList {
             System.out.println(c.getCategoryId() + "\t" + c.getName() + "\t" + c.getDescription());
         }
     }
-    // 과제 주문 ArrayList에 상품명과 사원명이 나오도록 출력하기.
+
+    // [과제] 주문 ArrayList에 상품명과 사원명이 나오도록 출력하기.
     public static void showOrderproemp(ArrayList<Order> orders, ArrayList<Product> products, ArrayList<Employee> employees) {
-        System.out.println("과제 주문 ArrayList에 상품명과 사원명이 나오도록 출력하기");
+        System.out.println("[과제] 주문 ArrayList에 상품명과 사원명이 나오도록 출력하기");
         System.out.println("주문번호\t주문일자\t사원명\t상품명\t주문수량");
         System.out.println("===================================================");
         for(Order o : orders) {
